@@ -1,0 +1,13 @@
+Delete client: Luca George, Bucuresti
+Delete client: Sandu Vasile, Cluj-Napoca
+Delete client: Ion Popescu, Bucuresti
+Delete Product: peach
+Delete Product: apple
+Delete Product: orange
+Delete Product: lemon
+Delete order: Luca George, apple, 5
+Delete order: Luca George, lemon, 5
+Delete order: Sandu Vasile, apple, 100
+Delete order: Sandu Vasile, orange, 7
+Delete bill: Luca George
+Delete bill: Sandu Vasile
